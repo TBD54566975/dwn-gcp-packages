@@ -1,0 +1,12 @@
+{
+  "name": "dwn-datastore-gcs",
+  "version": "0.0.1",
+  "description": "DWN datastore implementation using Google Cloud Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0"
+}
