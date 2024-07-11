@@ -77,7 +77,7 @@ git push
 dwn-gcs-datastore needs to be built and deployed to the local artifact registry for the project
 
 ```
-npm run build
+pnpm run build
 ```
 
 Create [artifact registry](https://cloud.google.com/artifact-registry/docs/nodejs/store-nodejs) for npm type
@@ -89,6 +89,6 @@ gcloud config set artifacts/location us-central1
 gcloud artifacts print-settings npm --scope=@local-npm-registry
 # insert output into /home/user/.npmrc
 
-npm run artifactregistry-login
-npm publish
+pnpm run artifactregistry-login
+pnpm publish
 ```
