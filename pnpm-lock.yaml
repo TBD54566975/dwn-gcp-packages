@@ -11,7 +11,7 @@ importers:
   packages/dwn-datastore-gcs:
     dependencies:
       '@google-cloud/storage':
-        specifier: ^7.3.2
+        specifier: ^7.11.3
         version: 7.11.3
       '@ipld/dag-cbor':
         specifier: ^9.0.5
