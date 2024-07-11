@@ -60,9 +60,7 @@ pnpm run test
 
 ```
 
-6. Increment version number
-
-If the change is big enough to warrant a version update, then increase the version number in package.json.  It is recommended to keep the version number in line with @tbd54566975/dwn-sql-store.
+6. Increment version number in package.json.  If the change is big enough to warrant a version update, then increase the version number in package.json. 
 
 7. Commit changes and push branch
 
