@@ -74,7 +74,7 @@ git push
 
 ## Build instructions
 
-dwn-gcs-datastore needs to be built and deployed to the local artifact registry for the project
+dwn-datastore-gcs needs to be built and deployed to the local artifact registry for the project
 
 ```
 pnpm run build

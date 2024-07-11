@@ -49,13 +49,13 @@ pnpm run test
 
 ```
 git checkout main
-git merge upgrade/dwn-datastore-gcs-0.1.1
+git merge upgrade/dwn-message-stream-pub-sub-0.1.1
 git push
 ```
 
 ## Build instructions
 
-dwn-gcs-datastore needs to be built and deployed to the local artifact registry for the project
+dwn-message-stream-pub-sub needs to be built and deployed to the local artifact registry for the project
 
 ```
 pnpm run build
