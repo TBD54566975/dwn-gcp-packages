@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "ESNext",
+      "dom"
+    ],
+    "allowJs": true,
+    "target": "ESNext",
+    "module": "NodeNext",
+    "declaration": true,
+    "declarationMap": true,
+    "rootDir": ".",
+    "outDir": "./dist/esm",
+    "sourceMap": true,
+    "moduleResolution": "NodeNext",
+    "declarationDir": "./dist/types",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "strictNullChecks": true
+  },
+  "include": [
+    "./src"
+  ],
+}
