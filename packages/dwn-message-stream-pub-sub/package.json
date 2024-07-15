@@ -1,5 +1,5 @@
 {
-  "name": "@local-npm-registry/dwn-eventstream-pubsub",
+  "name": "@local-npm-registry/dwn-eventstream-pub-sub",
   "version": "0.1.0",
   "description": "Google PubSub backed implementation of DWN EventStream",
   "type": "module",
