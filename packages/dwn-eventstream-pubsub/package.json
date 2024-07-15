@@ -1,10 +1,10 @@
 {
-  "name": "@local-npm-registry/dwn-eventstream-pub-sub",
+  "name": "@local-npm-registry/dwn-eventstream-pubsub",
   "version": "0.1.0",
   "description": "Google PubSub backed implementation of DWN EventStream",
   "type": "module",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/TBD54566975/dwn-gcp-packages/dwn-message-stream-pub-sub",
+  "homepage": "https://github.com/TBD54566975/dwn-gcp-packages/packages/dwn-eventstream-pubsub",
   "bugs": "https://github.com/TBD54566975/dwn-gcp-packages/issues",
   "repository": {
     "type": "git",
